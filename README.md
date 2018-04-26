@@ -18,5 +18,6 @@ also uses `rename(old_file, new_file)` method to rename the files.
 eg. `new_file=old_file.translate(old_file.maketrans('','','0123456789'))`
 
 ## References 
-1. [Python Modules](https://docs.python.org/3.2/py-modindex.html#)
-
+1. [Python Documentation](https://docs.python.org/3/)
+2. [Python OS module](https://docs.python.org/3.2/library/os.html#module-os)
+3. [Python Translate Method](https://stackoverflow.com/questions/41708770/translate-function-in-python-3/41708804)
