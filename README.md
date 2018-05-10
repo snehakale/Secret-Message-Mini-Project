@@ -8,6 +8,7 @@ This is a *secret message mini python project*. It contains a python program whi
 3. Install python step-by-step on your machine. Refer these links, for [windows](https://www.howtogeek.com/197947/how-to-install-python-on-windows/) and for [Mac](https://docs.python.org/3/using/mac.html)
 4. Before running this project, copy and paste the secret message folder address in *rename_files_project.py* for `file_list` and `directory_path`.
 for example: `file_list = os.listdir(r"D:\GitHub Projects\...\secret message")`
+Refer the link below for need to write r before path name.
 4. Run **rename_files_project.py**.
 
 ## Code Examples 
@@ -22,4 +23,5 @@ eg. `new_file=old_file.translate(old_file.maketrans('','','0123456789'))`
 1. [Python Documentation](https://docs.python.org/3/)
 2. [Python OS Module](https://docs.python.org/3.2/library/os.html#module-os)
 3. [Python Translate Method](https://stackoverflow.com/questions/41708770/translate-function-in-python-3/41708804)
+4. [r Before Path Name](https://stackoverflow.com/questions/42654934/need-of-using-r-before-path-name-while-reading-a-csv-file-with-pandas)
 
