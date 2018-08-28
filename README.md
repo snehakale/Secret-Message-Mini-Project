@@ -25,3 +25,5 @@ eg. `new_file=old_file.translate(old_file.maketrans('','','0123456789'))`
 3. [Python Translate Method](https://stackoverflow.com/questions/41708770/translate-function-in-python-3/41708804)
 4. [r Before Path Name](https://stackoverflow.com/questions/42654934/need-of-using-r-before-path-name-while-reading-a-csv-file-with-pandas)
 
+## Author 
+Sneha Kale
